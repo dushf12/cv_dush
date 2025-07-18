@@ -1,7 +1,7 @@
 # 🚀 **Dushyanth Bandaru - DevOps & Cloud Engineer Portfolio**
 
 <div align="center">
-  <img src="cv_ss.png" alt="Portfolio Screenshot" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
+  <img src="public/assets/cv_ss.png" alt="Portfolio Screenshot" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
 </div>
 
 <br>
